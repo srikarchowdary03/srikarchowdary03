@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srikar Chowdary;+An+Tech+Enthusiast+🔆;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Srikar+Chowdary;+An+Tech+Enthusiast+🔆;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
 </p>
 🎓I'm a 4th year CSE student at RMKEC<br><br>🌱 Currently learning Data Structures and Algorithms<br><br>
 
